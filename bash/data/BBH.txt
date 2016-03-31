@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------------
+Client: BBH
+Candidate: Robert Shi
+Type: Phone
+Date: 04/11/2014
+
+1.Project
+2.Explian in detail about TDD. 
+3.Explian differences between agile and waterfall.
+4.IOC(setter vs constructor injection)
+5.Arraylist vs LinkedList
+6.hashcode vs equals.if hashcode always return 1, is that vaild?
+7.maven: install vs deploy
+8.design pattern: builder vs Decorator 
+9.unit testing..mock framework???
+10.race condition..
+11.synchronized block vs method
+
+ 

@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------------------------------------
+Client: Big Lots
+Candidate: Timo Huang
+Type: Phone
+Date: 04/16/2012
+
+1. How do you config web.xml so that you can call a servlet
+2. How do you config struts?
+3. How do you config Spring IoC?
+
+ 

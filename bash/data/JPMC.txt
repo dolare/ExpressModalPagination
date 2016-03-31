@@ -1,0 +1,881 @@
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, 
+Candidate: Edward Shen
+Type: Phone
+Date: 01/05/2011
+
+1. how to integrate hibernate and spring
+2. Flex message how to polling
+3. what do you write in spring configure file
+4. Hibernate manage data not store in to database
+5. Project work flow from front end to back end
+6. Array arraycollection different
+7. Advanced datagrid how to select multiply column 
+8. How to use itemredener in datagrid
+9. Flex lifecycle
+10. Flex event propagation
+11. How to use layout in flex
+12. How to implement abstract class in actionscript
+13. How to implement overload in actionscript
+14. How to use RSL in your project
+15. How to use flex module in your project
+16. Flex garbage collection    
+17. Flex how to improve the performance.          
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, 
+Candidate: Edward Shen
+Type: Phone
+Date: 01/06/2011
+
+1. In database how to implement transaction management?
+2. Flex message how to do polling?
+3. what do you write in flex configure file?
+4. How does Java call store precedure?
+5. Project work flow from front end to back end
+6. Difference between Array and ArrayCollection 
+7. Differnece between AdvancedDatagrid and Datagrid
+8. How to use ItemRenderer in datagrid?
+9. Flex lifecycle
+10. Explain flex event propagation
+11. How to use layout in flex?
+12. How to use styling in flex?
+13. Cairngorm MVC which class you extends in your project
+14. Cairngorm MVC work flow
+15. Session facade and proxy design pattern
+16. Have you used AIR?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, 
+Candidate: Edward Shen
+Type: Phone
+Date: 01/10/2011
+
+1. Asking about project
+2. Httpservice and dataservice different
+3. Ask some design patterns used in project
+4. cairngorm MVC what class you extend.
+5. Call javascript and trigger a popup window
+6. Viewstack loading machnisam
+7. some session in flex
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Sarah Wang
+Type: Phone
+Date: 01/24/2011
+
+1. The workflow of Cairngorm MVC.
+2. How to do performance tuning in Flex in your application
+3. What kind of data you layout?
+4. What is your responsibility for current project.
+5. More questions about current project
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, Dallas, TX
+Candidate: William Xie
+Type: Phone
+Date: 04/04/2011
+
+1. What is your challenge during your project while using Datagrid.
+2. How many data you stored in the datagrid.
+3. How do you config the hibernate file to refresh new data.
+4. How to you set the binding in flex to refresh the data.
+5. What is the different between actionScript and C++.
+6. What is the different between actionScript and Mxml.
+7. While in the datagrid, how you use itemRender.
+8. How do you get the data from datagrid column with itemRender.
+9. While using carigorn, if you want to add more function, what you will do.
+10. What MVC framework you use in you last project. Who design them?
+11. How you use spring to communicate with flex and java, why you use spring.
+12. How you control popup.
+13. In java side, which kind of function you wrote before in your last project.
+14. What kind of front end language except flex you used before, tell us more about them.
+15. How flex communicate with javascript.
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, Dallas, TX
+Candidate: William Xie
+Type: Phone
+Date: 04/12/2011
+
+1. What is mx internal?
+2. How do you do the deployment?
+3. How do you config you spring and blazeDS?
+4. How do you use itemRender?
+5. What is moduleLoader? Different between SWIfloader?
+6. What is amf channel? How to integrate it?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Riemann Dorval
+Type: Phone
+Date: 04/19/2011
+
+1. Tell me about consumer and producer in Flex
+2. How do you configure Hibernate to save changes made in the back end to front end
+3. Binding in Flex
+4. Different Spring bean scope
+5. Mutlithreading in Java
+6. How to start a thread, code description
+7. How to get a bean in Spring for the configuration file, code description
+8. You have a Actionscript clas that extends button in flex and you want to add a property to be accessed thought MXML, how do you create that property. 
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, NYC
+Candidate: Wesley Wei
+Type: Phone
+Date: 04/20/2011
+
+1. Modual loader vs Swf loader 
+2. Skinning vs Styling 
+3. how do you use Validator and Formator 
+4. how to do you use Data grid 
+5. talk about Item render 
+6. what is rsl 
+7. how to deploy flex project on weblogic 
+8. new feature on Advance datagrid 
+9. Local connection 
+10. how to implement Two application to communicate with each other 
+11. Application.application 
+12. what is Dom , Sax 
+13. Accordion 
+14. difference Text textinput 
+15. what is Dictionary 
+16. what is Stage 
+17. how Cairngorm run 
+18. what is BalzeDS 
+19. how to implement Httpservice & webServie 
+20. how does Flex call javascript 
+21. MX-internel 
+22. explain Singleton in AS 
+23. Event bindable ? 
+24. Event propergation 
+25. Remove panel -> what events will be trigger 
+26. Overload and override in AS 
+27. difference between Interface & abstract class 
+28. what database do you use?Oracle 
+29. how to do tuning 
+30. how to use Ant & Maven 
+31. BlazeDS & Livecycle 
+32. blazeds vs lcds 
+33. what is action class in struts 
+34. what difference between outerjoin and inner join 
+35. pureMVC 
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, NYC
+Candidate: Wesley Wei
+Type: Phone
+Date: 04/28/2011
+
+1. hashmap perfermance slow, how to solve that 
+2. search a obj in a list.how could do it fast
+3. what function should be override in junit
+4. how to add a object in a httpsession
+5. what is casade in hibernate
+6. how to popup a window in flex
+7. how to you use threading
+8. how to you use annotation,how do you use annotation in spring
+9. how to intergrate flex with spring, what benefit of that
+10. what you problem when you build you first project
+11. what is amf channel what is producer consumer, how did you write them.
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, NYC
+Candidate: Carson Wang
+Type: Phone
+Date: 10/25/2011
+
+1. different between abstract class & interface?
+2. give me a example when do you use abstract class in your project?
+3. give me a example when do you use interface?
+4. override (he read some code, ask me the result)
+5. overload (he read some code ,ask me the result)
+6. what is throw?
+7. what is finally do?
+8. what is the different between c++ and java?
+9. what is different between treeset and hashset?
+10. what is the different between unchecked and checked?
+11. give me a example when u use JMS?
+12. struts, how it works?
+13. how to configure struts?
+14. Hibernate laze loading
+15. hibernate traction management
+16. how to configure traction management
+17. scopes of spring
+18. which one is default of scope of spring
+19. what is <ref/> mean?
+20. what is spring bean managment?
+21. how to represent a bean in spring?
+22. how do you use aop in your project?
+23. how synchronized works?
+24. how synchronized lock works?
+25. can struts work with flex?
+26. what is generics?
+27. what is losecoupling
+28. what is tight couping
+29. which one is better? losecouling or tight couping
+30. what is the different between Find and get?
+31. Many to many Maping, how to configure?
+32. cascade how to use it?
+33. autoboxing?
+34. example of autoboxing?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, NYC
+Candidate: Gregory Gao
+Type: Phone
+Date: 02/07/2012
+
+1. How does Spring and Hibernate integrate?
+2. Talk about Factory pattern. 
+3. If there is a bean in Spring config file, called "User", 2 variables in another java file called User1 and User2, how to config these 2 beans? 
+4. Still the same question as question 3, are the User1 and User2 the same object? 
+5. How to config a hashMap in Spring config file? 
+6. Any JMS experience? 
+7. How many types of Hibernate files? What's there responsibilities? 
+8. If you deploy a project which include a Singleton, into 2 clusters in a Weblogic server, how many object of this singleton will be created? 
+9. What's the API for parsing the value from XML file in java? 
+10. How to increase the SQL performance? 
+11. Database isolation levels.
+12. How many ways to communicate between flex project and java backend? What are they? 
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, NYC
+Candidate: David Zhang
+Type: Phone
+Date: 06/19/2012
+
+1. advantage of flex
+2. component you used
+3. customized component
+4. UI component life cycle
+5. event propagation
+6. data gird, advance data grid
+7. flex prototype	
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Peter Wang
+Type: Phone
+Date: 11/16/2012
+
+1. What components you created
+2. When you create customized components, when to use ActionScript, when to use MXML
+3. Scenario 2 on Peter’s slides
+4. Add button to screen at runtime
+5. Title window vs. ? (didn’t understand the second word)
+6. HTTP service how to pass data, using get and post
+7. Blaze ds workflow, config
+8. A list consisting of a collection of first name and last name. If first name is “abc”, display it as “xyz”, otherwise display the original first name
+9. Write your own library
+10. Application communicate with module. 
+11. A customized button on right corner to minimize panel, close panel
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Olivia Zhang
+Type: Phone
+Date: 11/16/2012
+
+1. What you role in the current project
+2. add component at runtime, which function we use?
+3. if use addChild(), it add the component on the bottom or top?
+4. How can we add the component at top(specific location)?
+5. How can we know how many child are there in the parent component?
+6. ItemRenderer in ActionScript shuld we write which function?
+7. blazeDS: could not retrieve the data from backend what is the problem? how to fix?
+8. binding 
+9. DataGrid to show different colors in different colonms
+10. How to design html page
+11. What is the pro and cons of html5
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Bill Gui
+Type: Phone
+Date: 11/21/2012
+
+1. how do find flex interesting compared to html5
+   I said more secure, and html5 standard hasnt been come out yet.
+   from the coding perspective?
+2. there is a button,a text and a checkbox, and mayother component. how to type the text and all other component show that text? I said binding then, he asked how to achieve without binding.(he said it was very simple)
+3. a datagrid with many columns(firstname, lastname ect), each column has a button, and there is a combo box, how to click each button and the combo box show the column(firstname, lastname ect)
+4. how to write singleton
+5. flex is asyn, how to know which method we call? and then, which step do you know your method is in? 
+6. which class use to upload pic?
+7. how to design a login process using carigorm?
+8. how to connect the flex arraycollect to java arrayList?
+9. what feature you need when used array instead of arraycollect?
+10. how to put pic in a datagrid? I said customer component, then, he asked if we dont have the hbox in the customer component, what happen?
+11. how to select all the checkbox in the datagrid? which property you need to set to selected? I said selected, but he seems not happy about it, and he said you dont have the id for checkbox.
+12. what customer component you have write? 
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Bill Gui
+Type: Phone
+Date: 04/04/2013
+
+1. your last project
+2. your role in the project
+3. component bubbling questions, how to capture the event in capture phase?
+4. how do you change certain column in DG to give the customer display?
+5. how many ways to call javascript
+6. how can you get access to google.com/somthing, what do u need to do?
+7. how to make certain filed not editable(like when the name='BIll') while keeping others editable
+8. what do you prefer to use to display a image? reapter or a list?
+9. how can we load the css dynamically?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Timo Huang
+Type: Phone
+Date: 04/17/2013
+
+1. How do you config BlazeDS?
+2. Differences between DataGrid and AdvancedDataGrid
+3. In a DataGrid, how do you add a String to all cell in a column
+4. In a DataGrid, how do you only display male or female after clicking a checkbox to choose
+5. How to handle event during capturing phase? How do you tell it's happening during capturing phase?
+6. Differences between HttpService/WebService/RemoteObject
+7. Load an XML from "google.com/something", how do you make this happen?
+8. In a BarChart, how do you sort the it?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Steven Liu
+Type: Phone
+Date: 09/09/2013
+
+1. what kind of front-end tech you used in your projects?
+2. difference bewteen Onload and $(document).ready.
+3. JSON format example, where did you use it in your project, how to print it and what it lookslike?
+4. example of AJAX
+5. JQuery selector type and example.
+6. how to use MVC in your project.
+
+1. what kind of front-end tech you used in your projects?
+2. difference bewteen Onload and $(document).ready.
+3. JSON format example, where did you use it in your project, 
+   how to print it and what it lookslike?
+4. example of AJAX
+5. JQuery selector type and example.
+6. how to use MVC in your project.
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Samuel Tian
+Type: Phone
+Date: 09/16/2013
+
+1.difference between string builder and string buffer
+2.difference between string and string buffer
+3.stored procedure vs function
+4.how to write your own exception
+5.hashtable vs hashmap
+6.javascript(== vs===)
+7.how to select dom element
+8.how many drivers do JDBC have?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Ethan Zhang
+Type: Phone
+Date: 09/19/2013
+
+1. How to select class in javascript
+2. How to select div by id
+3. What’s the different between onload and ready
+4. How do you use rest in your project
+5. How do you use json in your project
+6. What is the different between visibility and display
+7. How do you change font and element 
+8. What html5 feature do you use in your project
+9. How is these features runs on ie8
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Anna Li
+Type: Phone
+Date: 09/26/2013
+
+JQeury + Ajax + JSON
+1.introdoce about yourself. what is your responsibility? what is your first project? when did got u 
+  graduated? how do u learned the technologies? learned from school or from work?
+2. what have u done in UI. 
+3. what JQeury features have u used.
+4. what is the benefit of using JQeury
+5. difference between onload and $(document).ready()
+6. can there be more than one $(document).ready() in a html file?
+7. scenario: input user's first name, want to show all the users who have the same first name. 
+describe how to write the code.
+8. what is the difference between visible and display:none.
+9. how to dynamically change color of a component?
+10.what is JQuery selector, which have u used? how to select certain ID with certain class.
+11. what is JSON? how u use it? how to parse it in UI?
+12. if u have a www link with some web service. can u call it in Ajax? how to?
+13. which tool are u used to debug UI work? Can u view the object value in debugger? can u modify the value?
+
+Flex , Spring:
+1. what is flex messaging, provider and consumer, based on resume
+2. what is event propagation
+3. difference between target and current target
+4. how to do binding in Flex
+5. Spring: what is auto-wire
+6. have u used Spring annotation before? how?
+
+Java:
+1. what is handled exception and unhandled exception? give some examples.
+2. what is pass by value and pass by reference? Java is pass by value or reference?
+3. exception handling.
+
+Algorithm
+1. print linkedList : have a linkList of 10, print all the element value by given the header reference.
+2. reverse print linkedList: still only have the reference of header, print the list in reverse order.
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Jonathan Zhang
+Type: Phone
+Date: 11/08/2013
+
+1. Talk about responsive design.
+2. How do you use Spring security in your project.
+3. How do you use spring in you project.
+4. How do you use Qunit in your project.
+5. Talk about caching in front end.
+6. What features will be there if you design a testing tool.
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, Jersey City
+Candidate: Lucas Niu
+Type: Phone
+Date: 01/23/2014
+
+1. What is your current role and yout current project?
+2. how do you implement authentication?
+3. did you use cache in your project? spring & hibernate cache
+4. did you create web service before? 
+5. what framework did you use with web service?
+6. did you use ajax in your project?
+7. what data you returned for ajax? json? model?(dto?)
+8. did you use multithreading in your project?
+9. did you use entity-relationship in your database?: 
+10. in hibernate did you configured lazy-fetch, eager-fetch,left join fetch?
+11. about lazy-init = false,
+12. compare hibernate.initialize, @Fetch(fetchtype=eager) and left-join fetch
+13. in spring transaction management, how to keep session open? require_new to autoclose
+14. how spring know when to fetch data?
+15. when json get data, when it will be null?
+16. how can you cache the data for json to get?
+17. did you ever try eager fetch?
+18. how did you manage multiple release in version control? how to merge overlapping feature and resolve conflict/change?
+19. did you use enum before?
+20. can enum has abstract?
+21. how did you test spring mvc, can you use junit? 
+22. did you use mockito, haskin before?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, Jersey City
+Candidate: Alex Chen
+Type: Phone
+Date: 03/03/2014
+
+1. Have you use multithreading?How
+2. Have you use collection?How
+3. Have you use Spring AOP?How
+4. Difference between linkedlist and arraylist
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase, Jersey City
+Candidate: Veronica Tian
+Type: Phone
+Date: 03/03/2014
+
+1. Have you use multithreading?How
+2. Have you use collection?How
+3. Have you use Spring AOP?How
+4. Difference between linkedlist and arraylist
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Elsa Sun
+Type: Phone
+Date: 04/09/2014
+
+1. Java class loaders
+2. Dynamic class loading
+3. Java Collection ( set list map)
+4. HashMap (override hashcode and equals)
+5. Reflection( how to use it)
+6. S="Hello";
+   S="Hello" + "World";
+   System.out.println(S);
+7. Multi-thread life cycle
+8. Synchronization level
+9. Synchronized Block vs. Synchronized Method
+10. Lock situation
+11. Gof Pattern
+12. What is factory pattern
+13. Create search screen how to implement pagination
+14. Div in HTML5
+15. Ajax
+16. Diff soap vs. Rest
+17. What is stateless?
+18. JMS 
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Steve Liu
+Type: Phone
+Date: 04/17/2014
+
+1. Tell me about your experience in front-end.
+2. How to use jQuery selectors.
+3. Suppose there are 10 div element and five of them are of class a, how to 
+   select those five div which have class a in jQuery.
+4. How to hide an element in jQuery
+5. What’s the difference between visibility and display
+6. What’s the difference between document.ready and onload
+7. How do you use Json datatype, compare it with XML
+8. Do you use restful service? Do you know JAX-B or JAX-RS
+9. How do you debug in front-end?
+10. How to make HTML5 compatible with different browser? For example in IE-8
+11. Do you have any struts experience? What is the controller, what is model and view?
+12. How many instances will be created by using servlets
+13. Is it ok to use AJAX call between different system?
+14. What is DOM in html
+15. Compare interface vs abstract
+16. Explain checked exception and unchecked exception
+17. How to handle runtime exception
+18. Do you have experience in sql and ext js?
+19. Suppose you need to send an employee’s first name and last name to the back, 
+    how you do it using Ajax in jQuery?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Steve Liu
+Type: Phone
+Date: 04/24/2014
+
+1. How to implement html5 features in IE8?
+2. What you have used in jQuery Plugin?
+3. How do you use grid in jQuery Plugin?
+4. How to make spring integrated with hibernate?
+5. How do you use restful in your project?
+6. How do you use maven in you project?
+7. Have you used TDD and BDD in your project?
+8. Where did you use spring security in your project?
+9. How do you do hibernate one to one?
+10. What kind of agile tool did you use?
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Jason He
+Type: Phone
+Date: 04/25/2014
+
+1. experience in work
+2. front end experience, any experience in EXT­js
+3. jQuery
+4. Java, rate yourself
+5. Collection API, how did you use it? Basically, list, set, map.
+6. Where did you use it?
+7. Hashmap, hashtable, collision
+8. How to define duplicates? hashcode equals reference
+9. Singleton, how to use
+10. Other than double check, any other ways to initialize a singleton
+11. static keyword
+12. Factory pattern
+13. Spring, features.
+14. Explain IoC
+15. jQuery, and naming space in javaScript, how to avoid conflict
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Jason He
+Type: Phone
+Date: 04/28/2014
+
+Suppose we are gonna develop an application for administration, make it simple, 
+display user information, and search user in search box. 
+He asked me to design from the front-end to the back-end, and asked details on 
+how to build up the system. Like how to configure the server, how to make the 
+connection to the database, how to integrate hibernate with Spring, and how to 
+configure Spring. He asked me about how to do the mapping for one-on-one 
+relation. I did answer it, but he focued on the lazy loading for this mapping 
+relation. (which drove me crazy, and I said I was not sure about this.) He asked 
+me one tricky question, Can we map a relation to one-to-many when it is actually 
+one-to-one? What will happen if yes and what are the reasons if no.
+Further, he asked me about Spring MVC. Like, how to create viewResolver bean, 
+and how to configure in the web.xml file.
+Then we moved to the front-end. He asked me how to retrieve data from the 
+database and how to render those records. And he focused on how to display
+hundreds of records in different pages. (well, I mean, display 400 records in 4 
+pages. Not 4 html pages.) At last, he asked me about how to do searching among
+those retrieved records...
+Finally, he asked me how long it would take to learn "EXT-JS".
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Chelsea Chen
+Type: Phone
+Date: 05/21/2014
+
+1. Self intro
+2. skill rate
+3. class loader
+4. Collection framework
+5. hashMap, the method to be override
+6. What if you don't override hashcode and equals
+7. Synchronized level
+8. methods in Object class
+9. Design pattern
+10. integrate JSON, jQuery, with spring MVC
+11. spring mvc work flow
+12. HTML5 new feature
+13. spring security
+14. the most recent project related question
+15. spring transaction
+16. what annotation you used
+17. soap web service
+18. soap message structure
+19. spring AOP
+20. TDD
+21. JMS
+22. cursor
+23. log4j 
+24. hibernate status
+25. hibernate cache
+26. spring cache
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Chris Zhang
+Type: F2F
+Date: 06/05/2014
+
+First interviewer:
+1. Self Intro
+2. What design pattern that Spring IoC based on? – Factory Pattern
+3. How to use ApplicationContext object to get bean? They want the 
+answer getBean(“some id”)
+4. Other design pattern? Proxy design pattern? What is the benefit of using proxy?
+5. Write SQL query, such as given two tables, employee and account, 
+each employee will have at least one account, write a query to select the 
+employees that have more than 500 accounts. Then how to improve the 
+performance of the query.
+6. JDBC integrate with spring, using JDBC template or extends JDBCDaoSupport
+7. Write a method to retrieve employee records from DB, return a 
+List<employee>? Using template.query(sql, RowMapper), in RowMapper 
+override mapRow(ResultSet rs, int line) method.
+public List<Employee> findAll() {
+String sql = “select * from employee”;
+return this.getTemplate().query(sql, new RowMapper<Employee>() {
+@Override
+public Employee mapRow(ResultSet rs, int line) {
+Employee e = new Employee();
+e.setName(rs.getString(“name”));
+...
+return e;
+}
+});
+}
+Second interviewer:
+1. Core Java: Error and Exception, checked exception and unchecked exception
+2. Java Collections: List<Integer>, what if I still want String object can be 
+stored in this list? Use List<? extends Object> or List<Object>. What is the 
+difference between these two ways? Any security issue?
+3. 9 methods in object.
+4. Synchronized level in Java
+5. Write a singleton
+6. How to prevent memory leak? Any error or exception you know about memory leak?
+Third interviewer:
+1. Resume related question
+2. Exception handling: using try catch block, throws keyword after method 
+declaration, throw new RuntimeException(e.getMessage(), e);
+(ref: Peter’s HibernateUtil class, process of creating sessionFactory object)
+3. Code review questions, like:
+Public boolean someMethod(String name) {
+if(name.equals(“Chris”)) return true;
+else return false;
+}
+any problem? Name might be null, then how to solve the problem with only 
+one if statement?
+My solution: “Chris”.equals(name)
+4. Given a Map<String, Double>, sort by value
+5. Date Type, given a date with particular date format, calculate the days to present.
+6. SimpleDateFormat questions, how to inject a Date using 
+SimpleDateFormat to specify pattern? Using Factory-Bean and Factory-method.
+7. Write query
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Kevin Ma
+Type: F2F
+Date: 06/05/2014
+
+1. Immutable
+2. Why are you use Factory? Why do not use Spring Factory? Where did you use it? 
+3. Concurrent hashmap
+4. HOw did you move your project into new system? (2 times) 
+5. How do you prevent memory leak? Did you meet in your work?
+6. Application context vs Bean factory
+7. Spring batch
+8. How to catch bugs? 
+9. After you are gaven documents from BA, what kind of docs? How to setup a schedule? technical leader level, deeper than terminology
+10. How to improve performance based on Spring+hibernate, except spring cache, hibernate cache?
+(asked by each three interviewer)
+11. How to optimize your project performance?
+12. Ask Facade, Factory, Observer, proxy design pattern?? give a real example and why you used? (should deep understand GOF, and examples should be gaven from your project)
+13. Ask jdbc link to Spring, code and method.(asked by each three interviewer)
+14. garbage collection
+15. left join and self join SQL questions with querying more than 100 elements or 0 element.
+16. How to use Ant and Maven to setup project? differences?
+17. Sort value from map
+18. jdk 1.6 new features.
+19. Several SQL questions? How to improve performance? How did you do without using subquery?
+20. Autoboxing code problems.
+21. Spring security
+22. problems about str.equals."abc"
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Dylan Fang
+Type: Phone
+Date: 06/13/2014
+
+1. Most parts are same with Chris Zhang and Kevin Ma
+2. Hibernate transaction.
+3. How JMS works?
+4. What is JMS Server? MQ server
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Dylan Fang
+Type: F2F
+Date: 06/18/2014
+
+1. Self Intro
+2. How many different types of ApplicationContext? Where to put the xml file name?
+3. Why use Singleton pattern? Why not just use Static field to replace Singleton?
+4. What is String type? What are the features of String type?
+5. How to use String Buffer to connect two string? Code required.
+6. Different between && and &?
+7. How to pass data between list and set?
+8. How to check key exist or not in Map? Map.contain
+9. What are the new feature of 1.6 and 1.5, where did you use the new feature. What are the 
+   benefits of using Generic?
+10. How to check Plalindrome string?
+11. How to detect Memory leak? OutOfMemoryError
+12. Object methods
+13. What are the benefits of using List<? Extends Object>?
+14. Synchronized level in Java
+15. Create Table A, Insert A, Create Table B, Insert B, the operation of insert B has error, now 
+    rollback, rollback to where?
+16. Table 1 has ID Sender A, amount Table 2 has ID Receiver B, amount 
+    Now combine the two table ID, Sender A, Receiver B, amount.
+17. Table dept, Table emp
+    Select the dept which employee’s salary is large than 5000.
+18. Spring Batch, no deep question, I just said I know this technology.
+19. RowMapper function. Bean has Date Object
+20. JDBC template. List<Object> query()
+21. Code Review: if(name.equals(“asdf”)) return true; Where is the problem, swap name and “asdf”
+22. How to use SimpleDateFormat and Date API
+23. Calculate the different days between current day and given day.
+24. Immutable class
+25. Spring Transaction
+26. Hibernate Transaction
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Mike Zhan
+Type: Phone
+Date: 11/03/2014
+
+1. comparator
+2. comparable
+3. static
+4. query: employee, department, find the top 10 salary employee 
+5. describe your most recent project 
+6. how hasheset determine duplicate 
+7. map vs list 
+8. Serializable
+9. Spring DI, how to use it, different ways
+10.  Spring MVC
+11. autowire annotation 
+12. Spring Transaction
+13. how did you do in front end 
+14. hibernate configuration
+15. rest webservice
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Andy Li
+Type: Phone
+Date: 01/15/2015
+
+1. your project
+2. how maven works
+3. responsive design (bootstrap), breakpoint
+4. do you know express.js an node.js
+5. which framework did you use to support older browser
+6. scrum daily meeting
+7. srping security
+8. html5 <video> and <audio>
+
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Xiaohan Yang
+Type: F2F
+Date: 01/16/2015
+
+1. Introduce yourself. What technology skills you have.
+2. What do you think of Spring
+3. How does Spring integrate with Hibernate
+4. Hibernate cache
+5. Spring cache, what is cached
+6. Spring Transaction Management (maybe this is because I mentioned it before)
+7. Talk about multithreading in high level
+8. How to create a thread
+9. Difference between Runnable and Callable
+10. Executor and thread pool
+11. Talk about exception
+12. SQL query: emp(emp, dept, sal), leave(emp, leaves)
+      Find emp, dept, number of leaves for those employees whose number of leaves is greater than 0
+      Find dept, number of leaves (leaves>0)
+-----------------------------------------------------------------------------------------------------------
+Client: JP Morgan & Chase
+Candidate: Charlie Li
+Type: Phone
+Date: 02/03/2015
+
+1. introduce about the project
+2. what did you do in your last project
+3. spring mvc workflow
+4. spring security config
+5. spring security to distinguish user and admin
+6. restful webservice
+7. how to test your web service
+8. maven repo
+9. any questions?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Mphasis / JPMC
+Candidate: Jeffrey Qiao
+Type: Phone
+Date: 02/04/2016
+
+1. recent project, what tech you worked on, responsibility
+2. how good you in hibernate and spring
+3. bean scope, change from single to prototype
+4. what you work on spring (MVC
+5. spring IoC, what kind of injections you used in spring, why do you need setter/constructor injection
+6. get vs load method in hibernate
+7. create immutable obj in java, string is immutable (String x=”123”; x.append(“45”), x is “12345” so why it is immutable?)
+8. rest and soap u have used. which scenario use which one
+9. life cycle of jsp
+10. can we declared a constructor in servlet?
+11. questions for vendor.

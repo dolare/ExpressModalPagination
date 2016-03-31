@@ -1,0 +1,1030 @@
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NJ
+Candidate: Kenneth, Yang
+Type: Phone
+Date: 03/21/2011
+
+1. Suppose you have several threads in the main method, you want the main method quit right after all the threads finish their job, what will you do?
+2. What protocol do you use in BlazeDs?
+3. Have you ever design JMS?
+4. What’s the difference between hashmap and hashtable?
+5. If you want to use a java class as the key, what should you be careful about?
+6. How to simulate multithreading in Flex?
+7. What is the difference between post and get?
+8. How to deal with lazy-loading in hibernate?
+9. Is hibernate session thread safe?
+10. Suppose you have a table which has no relationship to other tables. It use first name and last name as composite key, it also has some other columns such as address. How will you design the java class?
+11. Some spring questions.
+12. A question about webLogic web application container.
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NJ
+Candidate: Wesley Wei
+Type: Phone
+Date: 05/06/2011
+
+1. talk about cairngorm mvc in you project
+2. how to improve the performance
+3. what is preloader
+4. how to bind a arraycollection to a datagrid
+5. can a tree control use arraycollection as a dataprovider
+6. what is shareobject
+7. how viewstack lazy loading
+8. talk about performance between blazeds and httpservice
+9. what is blazeds connection limitation in different browser
+10. how to do a map in flex
+11. can hashmap key is null value
+12. can flex have overload funtion,hwo to do that?
+13. event propagation
+
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NJ
+Candidate: Wesley Wei
+Type: F2F
+Date: 05/10/2011
+
+1. javascript scope
+2. what kind of RPC do you use in flex? why people use httpservice instead of remote object?
+3. if x=10, y=20, exchange the value of two variable without using other vairable
+4. what kind of controller do you use in spring mvc
+5. if a request timeout value from brower to server is 10 sec, the server need 20 sec access database, how do make the request alive
+6. talk about cairngorm mvc
+7. talk about parsley
+8. difference between hashmap and hashtable
+9. OOP features
+10. what interface need to implement when do the collection sort
+11. what kind of customer component do you develop
+12. what is java memory managent
+13. talk about java reference type
+14. event propagation
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Bo Ni
+Type: Phone
+Date: 07/13/2012
+
+1. What is the difference between StringBuffer and StringBuilder?
+2. What is the difference between final, finally, finalize?
+3. How to achieve multi-threading?
+4. Synchronized keyword can be applied to which place?
+5. Volatile keyword
+6. What is clustered Index?
+7. Cairngorm MVC
+8. BlazeDS RPC procedure
+9. Event Propagation
+10. Spring AOP
+11. What is Hibernate Proxy? 
+12. How to raise performance of DB
+13. Join vs left join
+14. How to make transactions in DB
+15. 3 kinds of statement
+16. How Flex talk to JavaScript
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Timo Huang
+Type: Phone
+Date: 07/16/2012
+
+1. Talked about the project.
+2. If I am to change something in the project, what would I do?
+3. ItemRenderer in DataGrid. What method do you override?
+4. Event propagation.
+5. How do you stop event propagation?
+6. How do you remove duplicate record in a database?
+7. join() in multithreading.
+8. Generics. What are the benefits?
+9. How do you call stored procedure using JDBC?
+10. Command pattern?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Scott Yang
+Type: Phone
+Date: 07/17/2012
+
+1. How do you think about flex?
+2. How do you think about cairngorm?
+3. Java webservice/BlazeDS.
+4. Use of basic flex components.
+5. Inversion of control.
+6. Spring Bean of scope in Singleton, Prototype and request.
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Elvin Zhu
+Type: Phone
+Date: 07/18/2012
+
+1. what is the blazeDS workflow
+2. how to config blazeDS
+3. how to set Accordions' default openning index
+4. how to erase the piechart's shadow
+5. talk about spring IOC
+6. what is serialization. in which project you used it
+7. spring bean scope: singleton, prototype and request
+8. flex itemrederer and headerender
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NJ
+Candidate: Rita Ni
+Type: Phone
+Date: 07/18/2012
+
+1. Describe the work you have done in your previous project, the high level of work flow of your project. How you get the data and what’s the data transmission policy in your project. Like the period of the polling.
+2. The edition of the frameworks and language that you used.
+3. Describe how remote object works.
+4. What channels you use. What is messagebroker? AMF? 
+5. Event propagation scenario question.
+6. Why and How you customize UI Component. Goes into details. And Scenarios (Item Renderer).
+7. What is JMS. Different types. How to make point to point communication?
+8. What’s the difference between Java 1.6 and Java 1.5?
+9. What features have Java 1.5 have added?
+10. How Java 1.5 address type safety? Why generic make type safety? What about generic parameters? 
+11. How you call SP in JDBC?
+12. How you get connections and make queries in JDBC?
+13. Differences between Prepared Statement and Callable Statement?
+14. How to reduce duplicates records in database?
+15. Lifecycle of EJB. How you connect EJB?
+16. What is XSLT? XSLT can transform XML to what kinds of files? What is REST? How you use that?
+17. Cairngorm MVC.
+18. How to print unique characters in a string in sequence?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Rita Ni
+Type: F2F
+Date: 07/19/2012
+
+1. Difference between Remote Object, HttpService and WebService communication.
+2. Describe how you use Remote Object to communicate. Is the communication synchronized?
+3. How remote object, channel and endpoint are defined? Can ro share same channel? Can ro have different channel?
+4. What if multiple requests using same channel happen in the same time. How BlazeDS handle this? 
+5. What is shared object.
+6. If I have an ArrayCollection in the backend. How can I get it in the front end.
+7. If I have thousands of messages from the front end. How can I get the message without using front end cache.
+8. Flex scenario question. How to capture the clicked checkbox in the Combo Box.
+9. What is customized event? How you define that.
+10. Have you customize UI component before? Give an example.
+11. How you make communications between JS and AS?
+12. How you set up connection in JDBC? If I do not want to expose the four parameters in code or property file or 
+    spring config file. What should I set up the connection?
+13. If I want to set up a lot of different connections, what should I do? How do you use connection pool? 
+    How do you create it? What API have you used building a connection pool?
+14. What are different types of triggers? Can you give examples? 
+15. How you call SQL? Write sql in code or SP? Why use SP? How you call SP in JAVA? How you get the return value from SP? 
+    Give an example. If the return value is a couple of data. How do you get that? Not using curser.
+16. How you execute sql in JDBC?
+17. What kinds of web service have you used? You write the service yourself or call for others’ services? 
+    About REST, how do you implement it? What API have you used?
+18. If the web service is in different domain from your application. How can you solve this?
+19. Can BlazeDS make pagination?
+20. How you create thread? Which way is better?
+21. Difference between Abstract class and Interface. Can I write public final abstract method in abstract class? 
+    If I write like this and make a class extends the abstract class, and in the main method of the subclass, 
+    s.o.p(“XX”), will that work?
+22. What is marker interface? Why use that? Give me an example.
+23. What is serializable used for? Can it have control on what you write and read?
+24. How can you control write and read? Why we need to control that? 
+25. Difference between HashMap and Hashtable?
+26. If I have an API, with a function to manipulate Hashtable. What will happen if multi-threading access the function? 
+    What if a function manipulate HashMap? What if multi-threading add to HashMap in the same time? 
+    What if add and remove in the same time? How you solve this? How you make synchronizations? 
+    Have you used sysnchronizeXXX method? What will be return? What is the mechanism? Which synchronize way is better?
+27. Have you used UID? What is that used for?
+28. How you close connection in JDBC?
+29. Give me examples of each kind of design pattern and how you use in your project.
+30. Explain me the Command Design pattern? How it is used in Java?
+31. Explain how you create a singleton. Why you code like that? Why you use singleton?
+32. If you have lots of class hierarchy relationships in your project, and will get a lot of related data from 
+    database because of relationship between tables and class hierarchy, but you only need only some columns. 
+    How you solve that? 
+33. Scenario: A system, show currency trading information sent from various locations. The view can only display 
+    100 records. But each trader may want to see the trading of currency they are interested in, 
+    how can you make sure each trader can see that records that they are interested in?
+34. How parsley framework works?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Wesley Wei
+Type: Phone
+Date: 03/11/2013
+
+1. what flex4 function do you use in your past project
+2. how do you use itemrenderer in you past project.give me example
+3. tell me some other way to create itemrenderer other than customer component.
+4. difference between itemrenderer and itemeditor. (other than itemeditor allow change )
+5. design a custom component to extend checkbox as a itemrender, how it works
+6. event life cycle?
+7. do you konw extjs?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Gregory Gao
+Type: Phone
+Date: 07/15/2013
+
+1. Explain the experiences of Java, Spring, SQL, Hibernate, Flex
+2. How to get duplicate value from 2 lists? Different ways
+3. Reverse a string, different ways
+4. Write a singleton, different ways
+5. Multi-threading questions, like where to synchronize, principle of it
+6. All different kind of small algorithm questions, like reverse string, remove duplicate, write singleton, emmutable, write a comparable, explain the hasecode and equal
+7. Lots of small algorithm questions by using different collections. 
+8. Lots of code writing on plain paper, to complete something. 
+9. What career are you expecting? 
+10. What's the priority thing to think about when you develop an application?
+11. What are you trying to get from Barclays?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Jerry Niu
+Type: Phone
+Date: 11/21/2013
+
+1. What's the difference between ArrayList and LinkedList?
+2. What's the difference between Hashmap and concurrentHashMap?
+3. What's the difference between wait() and hashcode()?
+4. How do you sort a series of String objects?
+5. How do you do serialization in Java?
+6. How do you implement singleton?
+7. How do you use clone()?
+8. If you use hashset, what will you do?
+9. What is proxy pattern in Hibernate?
+10. How to integrate Spring with Hibernate?
+11. How to do many to many mapping in Hibernate?
+12. What is index in database?
+13. What is materialized view in database?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Jerry Niu
+Type: F2F
+Date: 11/22/2013
+
+1. Does volatile assure atomicity and visibility?
+2. Talk about something about Thread pool.
+3. Synchronization block and method(static and nonstatic).
+4. Talk about clone method, why clone is protected, if super class doesn't implement Serizalable, what will happen if I do clone in subclass.
+5. What is final and finally, why finally can always be executed?
+6. what is hashcode and equals method, when to use them?
+7. what will you care when using wait and notify method?
+8. How to make a class immutable?
+9. What do you think about the internal structure of a concurrenthashmap?
+10. What will you concern when you design a class?
+11. What is Proxy pattern and where do you use it?
+12. How do you realize a vector using arraylist?
+13. When a sql is very slow, how do you analyse it?
+14. If class A's constructor prints 'a', Class B is subclass of Class A and it's constructor prints 'b', what will print when using new B().
+15. How to efficiently find common elements of two arrays(one has 10000 elements and the other has 20000 elements, both of them do not have repeatable elements)?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Stephen Liu
+Type: Phone
+Date: 11/27/2013
+
+1. what is hashmap internal structure
+2. what is concurrenthashmap
+3. describle MVC framework
+4. which design pattern you use in project, example?
+5. how to use wait, notify and notifyAll, explain the how it work
+6. how to use reflection and example
+7. 4 type references and garbage collection workflow, how to make reference type change.
+8. how to use clone()
+9. how to make thread safe, multiple ways.
+10. concurrent package related
+11. how to create thread
+12. volatile atomicity and visibility
+13. how to create threadpool, explain different threadpool type
+14. what is future?
+15. why use index in database, clustered and non clustered index
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Harry Xue
+Type: Phone
+Date: 12/06/2013
+
+1. can two threads access synchronized static method and synchronized non-static method of a object at the same time?
+2. Threadpool, how to create threadpool
+3. Semophore.
+4. A person,with String firstname, String lastname, List address.
+   how to make it immutable. It you get address, and clear it, then it is not immutable.
+   How to make it unmodifiable. (use Collections.unmodifiablelist())
+5. hashcode, equals
+6. hashset
+7. wait, notify, notifyall
+8. sleep, wait, can you wake up a sleep thread.
+9. interrupt thread
+10. runnable, callable
+11. Spring scope,
+12. Union, UnionAll
+13. Left outer join
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays, NYC
+Candidate: Harry Xue
+Type: F2F
+Date: 12/06/2013
+
+1. wait(), notify(), notifyAll()
+2. synchronized on static and non-static methods
+3. Is synchronized reentrant? How to implement reentrant lock?
+4. How to implement Producer and Consumer using wait and notify?
+5. How to make an immutable class? What if one field of the class is a list?
+6. Hashset, ConcurrentHashMap internal mechanism
+7. SQL optimizer
+8. JVM Register 
+9. In linux how to check how much memory is used by a process?
+10. How to make a list thread-safe?
+11. Executor, ThreadPool
+12. How to determine whether two elements are duplicate when insert into a HashSet?
+13. Hibernate, JDBC?
+14. JDBC drivers
+15. Volatile
+16. How to sort an list of object and String?
+17. final
+18. a method, pass a primitive, an object, change them inside the method, how is the value outside the method
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays, NYC
+Candidate: Clare Shen
+Type: phone
+Date: 01/31/2014
+
+1 Do you use any front end library?
+2 CSS Grid and 960 system.
+3 Closure. And the scope for the classes.How inner function access local variable?
+4 What is the difference between box-size and border-size.
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays, NYC
+Candidate: Clare Shen
+Type: F2F
+Date: 01/31/2014
+
+1 a: var x=function(){
+ 	//
+     }
+  b: function(){
+     }
+  a and b which one has better performance.
+2 function(){
+	var b=3;
+	return b;
+	var b=6
+   }
+   What should be the output.
+3 introduce event delegation in javasciprt. What is bubbling and capturing. 
+  What is use for them to improve the performance of web app.
+4 Link a:
+  Link b:
+  Suppose click link a , then give a list of user information, once someone 
+  delete it, how other people can know use backbone.js model.
+5 box model. Does all the browsers support it? How to deal with the situation 
+  for different browsers show different size for the content or padding. And if 
+  we have content, then add padding, what should be the total size for the box.
+6 What is your last project?
+7 did you involve in the design?
+8 what would you do if you cannot talk to designer when their design cannot work?
+9 What is your favorite part in last project?
+10 what should you do in QA part?
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays, NYC
+Candidate: Dylan Fang
+Type: Phone
+Date: 04/30/2014
+
+1. self introduction and project background
+2. unit testing tools/ how do you do the unit testing
+3. What is the difference between mock object and stubs
+4. what is spring dependency injection
+5. what is constructor injection and interface injection
+6. difference between wait and sleep
+7. difference between hashtable and hashmap
+8. difference between array and araylist
+9. how to test protected method in junit
+10. diffrence beween SOAP and RESTFUL 
+11. what is endpoint
+12. SVN
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, NYC
+Candidate: Edward Lin
+Type: Phone
+Date: 05/13/2014
+
+1. describe recent experience
+2. how to use qunit
+3. how to use hibernate
+4. where you use XML
+5. how you did unit test
+6. how you use junit
+7. specify some features in your project
+8. how did you do front end design? the workflow
+9. how to make sure the new functionality does not break anything? regression test
+10. which environment are you involved in? which IDE?
+11. how to avoid version conflict when there are two person try to upload a same version of project?
+12. how you deal with volumn data in front-end
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, DE
+Candidate: Brian
+Type: F2F
+Date: 07/11/2014
+
+1.Different between procedure and function
+2.View(update, refresh)
+3.Data modeling(3 type of date model)
+4.UNIN / UNINNAL
+5.SQL*loader(how to use, where to use, how to load large data)
+6.Control script(how to write ,how to store, how to execute)
+7.Package(give some example of building package,what are they,how to use,where to use give an 
+  example of the package that you built before)
+8.Exception handling(different type,how to use,where to use)
+9.There are 2 data sets in one table,now, we want the output to be the second data set put frist and 
+  then the frist data set. In other words, change the output sequence of 2 data sets.
+10.Change the format
+  Change
+  Mgr sal
+  A   100
+  B   200
+  TO
+  A100 B100
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Shawn Cao
+Type: Phone
+Date: 07/11/2014
+
+1. <div> display as a block and as in-line
+2. how to stack elements absolute positioning
+3. z-index
+4. HTML and CSS new features
+4. JQuery selectors
+5. JQuery $().setClass
+6. some very basic HTML and CSS questions for front-end developer
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Bob Lu
+Type: F2F
+Date: 07/22/2014
+
+A given int[], design an algorithm to compute how many moves it needs to go out of the int[].
+Example: [1] go 1 step and return 1; [1,1] total 2 moves and return 2; [-1] also return 1
+Be careful certain situation like [0] and [1,-1].
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Harry Xue
+Type: F2F
+Date: 07/29/2014
+
+A given int[], design an algorithm to compute how many moves it needs to go out of the int[].
+Example: [1] go 1 step and return 1; [1,1] total 2 moves and return 2; [-1] also return 1
+Be careful certain situation like [0] and [1,-1].
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Jake Zhao
+Type: Phone
+Date: 09/12/2014
+
+11:00am Barclays at Wilmington, DE; Vendor: Matt Lock from CE Solutions
+Anurag Agarwal, Senior Tech Lead is supposed to call but he didn't.
+Instead, a white guy just asked some basic core java, Spring and Hibernate questions and introduced Barclays Cards for 15 min.
+The "interview" last about 30 min.
+Vendor confirmed F2F interview afternoon.
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, DE
+Candidate: Jake Zhao
+Type: F2F
+Date: 09/17/2014
+
+Anurag Agarwal, Senior Tech Lead is supposed to meet me but he didn't show again...
+Two Indian guys who are Anurag Agarwal's team member did the interview, one's name is Venkat other one seems to know Hibernate very well but I forgot his name.
+Venkat's question:
+1. Do you know how distributed systems work? Given you 10 server how do they handle huge number of requests cooperatively? Note: don't be trapped to this question, just show him some baisc knowledge of that, that confidently tell him you are not familar with it.
+2. How Spring MVC works? What is Spring IoC? What is Spring AOP? How to do bean injection in Spring (3 ways)? What is Spring Scope? And some Spring questions regarding your last project on your resume.
+3. What is Factory Pattern, Singleton Pattern, Chain of Responsibility Pattern, Decorator Pattern, Proxy Pattern? How to write Singleton?
+4. How to write Web Service? (I directly told him how I integrated Jersey Rest to Spring and how to use Rest + JSON in Ajax call in front end)
+5. What is responsive design? (I think he saw it on my resume and he didn't know what it is)
+6. What is the biggest challenge you ever faced?
+7. What AngularJS can do?
+8. How many application server instances running did I have in last project? (I guess this a very good question to find out if I was really worked in industrial, I told them there are last 5 groups: for local development, system testing, UAT, production and backup.
+Hibernate guy's question:
+1. How Hibernate works? (config, hbm.xml, bean)
+2. How Hibernate works with Spring? (Spring DAO support, Hibernate Template, <SessionFactory>, <DataSource>)
+3. How Hibernate Cache works?
+4. How to write SQL, HQL and Criteria? How to write hbm mapping file? (fetch = join)
+5. Given two tables, one table has a primary key, the other table has column named same as the first table primary key but it is NOT foreign key, how to join two tables? HQL and Criteria, which is better?
+Note: Be prepared with wide and deep Spring, Hibernate and Design Pattern questions
+Vendor confirmed final round F2F interview on next morning
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, DE
+Candidate: Jake Zhao
+Type: F2F
+Date: 09/22/2014
+
+Anurag Agarwal, Senior Tech Lead finally showed up... and his big boss Scott
+Scott!/s question:
+1. What you did in your last project? And some behavior questions like that...
+Note: He doesn't know tech so just be prepared with those regular behavior questions and listen carefully what he asks and show him your big interest on his project and you are very extrovert person, easy to get along with and very smart... lol
+Anurag Agarwal's questions:
+Basically same as Venkat and Hibernate guy!/s questions
+Note: Just frankly tell them if you don't, show and explain what you pretty well, be outgoing, polite and interested.
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, DE
+Candidate: Jay Zhao
+Type: Phone
+Date: 10/07/2014
+
+1. vxml?QA experience?
+2. previous experience and how to fit this position and your challenge?
+3. project interest and why it was interest?
+4. code complexity
+5. common
+6. version control
+7. scenario question
+8. question
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays, DE
+Candidate: Jay Zhao
+Type: F2F
+Date: 10/10/2014
+
+1. given an array, it contains integers. Write an algorithm to shuffle the array.
+2. A given int[], design an algorithm to compute how many moves it needs to go out of the int[].
+3. given some consecutive numbers, put them in an array randomly. one of the numbers is missing in the array. Find that number
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Frank Nan
+Type: Phone
+Date: 11/17/2014
+
+1.your porject
+2.spring ioc
+3.heavy on soap, what is in soap, how to config
+4.rest, rest interface
+5.svn tag
+6.red-black tree structure
+7.jaxb
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Tracy Yang
+Type: Phone
+Date: 01/12/2015
+
+1. ArrayList and LinkedList
+2. hashcode
+3. hashmap
+4. wait and sleep
+5. join and yield
+6. excute() and submit()
+7. check and uncheck exception
+8. component in Spring 
+9. facotry methods
+10. Spring ioc
+11. process of spring MVC
+12. hibernate status
+13. load/get
+14. call stored procedure in hibernate
+15. PL/SQL 
+16. sp and function
+17. delete and truncate
+18. linux
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Tracy Yang
+Type: F2F
+Date: 01/16/2015
+
+1. Introduce yourself. What technology skills you have.
+2. What do you think of Spring
+3. How does Spring integrate with Hibernate
+4. Hibernate cache
+5. Spring cache, what is cached
+6. Spring Transaction Management (maybe this is because I mentioned it before)
+7. Talk about multithreading in high level
+8. How to create a thread
+9. Difference between Runnable and Callable
+10. Executor and thread pool
+11. Talk about exception
+12. SQL query: emp(emp, dept, sal), leave(emp, leaves)
+    Find emp, dept, number of leaves for those employees whose number of leaves is greater than 0
+    Find dept, number of leaves (leaves>0)
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Andy Li
+Type: Phone
+Date: 02/23/2015
+
+1. How did you do testing work in previous experience?
+2. If some modules are incomplete, how did you complete your testing?
+3. How to migrate from weblogic to tomcat
+4. Some behavior questions like why are you interested in this job
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays
+Candidate: Penny Li
+Type: Phone
+Date: 04/15/2015
+
+1. What collections you have used in your projects
+2. difference of ArrayList and LinkedList  
+3. comparable and comparator
+4. if we have a string class, and the string a=1, b=2, c=3, we have put them in a hashmap, abc, then we want insert an string bac, what will happen
+5. final and finally
+6. yield()
+7. sleep() and wait()   the lock
+8. difference of executor.execute and executor.submit
+9. blocking queue
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays
+Candidate: Penny Li
+Type: Phone
+Date: 04/28/2015
+
+1. Self Introduction
+2. What’s your job in your last project
+3. exception handling
+4. dependency injection
+5. Singleton
+6. how to prevent deadlock
+7. Hibernate Cache
+8. Which one do you choose, hibernate or JDBC, why?
+9. Maven, how to add a new jar file in Maven
+10. SQL two query question, emp(empid, deptno, sal), dept(deptno, deptname) select the result that eache empid with deptname,  find out the highest salary in each dept 
+11. In application, we have 10 million record, and there is a column logdate(data type is date), how to delete all records more than five days
+12. What if we want delete 1million records in 10million records
+13. In Unix, how to find the last 8 characters in a file name
+14. In Unix, how to delete the last five lines in a file
+15. JQuery, jqgrid plugin problem
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays
+Candidate: Penny Li
+Type: F2F
+Date: 05/01/2015
+
+1. self introduction
+2. Write Singleton(when we need use singleton, can we create new instance of singleton class? can we clone a singleton class)
+3. class Base{ public static A(){}, public B(){}}   class Ext extends Base{public static A(){}, public B(){}}   Can we write Base a = new Ext()?  If we call a.B which method it uses, what if we call a.A?
+4. What is the difference between jUnit and JMockit? A given class, how many test cases you will write for this class?
+5. Write the query table emp(emptd, deptno, sal) dept(deptno, deptname) I forgot details of this question, just very basic queries
+6. How you debug the project if it runs very slow? How you debug the database if you find the problem cause the application slow is in database?
+7. Spring IOC, In which condition you can only use constructor injection?
+8. If we have 1 million records, which data structure you salad use? For list and map, how you will find a given string? What’s the time complexity for list and map to search a certain string?What if the string doesn’t exist in List/Map.
+9. What is Restful web service? Difference between rest and soap
+10. Jenkins Build
+11. What is Maven pom, and dependency?
+12. Any deploy work?
+13. Have you ever do any product support work?
+14. Two behavior questions
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS/Barclays
+Candidate: Penny Li
+Type: F2F
+Date: 05/06/2015
+
+First Interviewer (VP)
+1. self introduction
+2. If you just finish a story, and the business analyst is unsatisfied with your work, what will you do?(I said I will check the requirements and success criteria to find out it is my problem or the requirement’s problem) then he asked: what if you find it is the requirement's problem and the BA doesn’t understand the technology part of the vendor platform we use(They use a third party vendor service that called Thomas Routers(he introduced this when he did team introduction))
+3. What will you do if QA find a defect in your story?
+4. What will you do if the team assign a story to you and you should finish it within 5 days but the actual workload will be much more than 5 days.
+5. What if your current story has dependency with another team and they haven’t finish their job in time?
+Second Interviewer (Team Lead)
+1. What is SSL/Man-In-the-Middle Attack(He saw my major is Security Informatics so he asked these two question)
+2. Multi-thread, what is synchronized?Give a example of shared resource, give a example when we must use multi-thread. What is sleep/wait, ExecutorService
+3. Hibernate, adv/dis, difference between Hibernate and JDBC, what should we use to instead of Hibernate except JDBC and iBatis()
+4. what’s the difference between collection and collections, can we define the collections as interface?Why?
+5. What’s the difference between primary key and unique key? Can we define a unique key not null to replace a primary key?
+6. Do you know any bigData tech?
+7. How you rate your self in Java and database?
+ 
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Timo Huang
+Type: Phone
+Date: 05/12/2015
+
+1. Strict TDD?
+2. What % of code coverage.
+3. What kind of things dont do unit test
+4. When and where you use mockito
+5. Anything other than mockito
+6. Any BDD tools, JBehave, many of them. Write the story first, then test it.
+7. Primary task: automation testing. fundation of QA. Cucumber, Stakflow, Webdriver, RBM. Test planning.
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS / Barclays
+Candidate: Lily Xiao
+Type: Phone
+Date: 05/19/2015
+
+1. Introduction
+2. What is a connection pooling
+3. Prepare statement vs callable statement
+4. How to handle exception in Java
+5. How many types of exception
+6. What is serialization
+7. How do you create a thread
+8. What difference between primary key and unique key
+9. emp(id, deptid, name), dept(id, dname)
+   (1) find all emp who have no deptid
+   (2) how many emp are there in each dept
+   (3)list each emp’s dept names
+10.  How to you print the first 5 lines of a file
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS / Barclays
+Candidate: Paul Liu
+Type: Phone
+Date: 05/27/2015
+
+1. Difference between arraylist and linkedlist 
+2. sleep(), wait()
+3. join()
+4. if we have a HashMap<String, String>, and we do put("abc", "123"); then we do put("bac", "123"). Suppose "abc" and "bac"
+return the same hashcode, what would happen? Is it insertion or overwrite? If we assume "abc".equals("bac") returns true,
+what would happen, insertion or overwrite?
+5. difference of executor.execute and executor.submit
+6. if you do Collections.sort(), it sorts it in ascending order by default. what if you want to sort it in descending order?
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS / Barclays
+Candidate: Colin Xiong
+Type: Phone
+Date: 06/17/2015
+
+1. insertion and deletion on arraylist and linkedlist
+2. sleep, wait, why sleep is a function of thread, wait is a function of object.
+3. join
+4. executor and connection pool
+5. blocking queue
+6. if we have a HashMap<String, String>, and we do put("abc", "123"); then we do put("bac", "123"). Suppose "abc" and "bac"
+   return the same hashcode, what would happen? Is it insertion or overwrite? If we assume "abc".equals("bac") returns true,
+   what would happen, insertion or overwrite?
+7. if you sort a list of Integer, it sorts in ascending order by default. what if you want to sort it in descending order?
+8. spring components
+9. spring Ioc, qualified name
+10. transient keyword,
+11. volatile keyword
+12. hibernate load and get
+13. truncate and delete
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Colin Xiong
+Type: Phone
+Date: 06/30/2015
+
+1. indroduction
+2. when to use stored procedure, when to use function
+3. what is view in database, how to use it to insert a data into table
+4. insert an employee with first name and last name into a list of employees, compare the first name and last name, if different, then do the insert operation
+5. scenario question: there is a cake with a irregular whole, how to cut the cake to divide equally.
+-
+----------------------------------------------------------------------------------------------------------
+Client: TCS / Barclays
+Candidate: Nick Diao
+Type: Phone
+Date: 07/02/2015
+
+1. how much do u expertise of multi threading.
+2. polymorphism
+3. arraylist and linked list
+4. how hashmap works internally?
+5. wait and sleep
+6. join method
+7. types exception
+8. drop vs truncate
+9. unix
+10. query on avg(sal)
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Vincent Li
+Type: Phone
+Date: 07/09/2015
+
+1. introduce yourself and recent project
+2. in what framework you will use multithreading
+3. when do you use generics
+4. how do you use spring integration
+5. How and where to use Restful Web Service
+6. do you encounter any performance issues using hibernate
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Vincent Li
+Type: F2F
+Date: 07/27/2015
+
+1. introduce yourself
+2. questions about singleton, when you use it.
+3. what do you do in an Agile environment?
+4. how to delete large amount of data everyday?
+5. everyday the application sends a report containing the log information to QA team, but one day the QA suddenly does not recieve the report and it comes out the SP is running for 2 hours. After checking, SP, database, front-end, back-end are fine, so what is the problem?
+6. what is the benefit using web server?
+7. what is new features about Collection in Java 8?
+8. what if the hash function is bad designed?
+9. what is the 4 types of GC strategies and the 4 algorithms for GC?
+10. How jvm manage stack memory?
+11. when the trigger is fired? How? What are the types of triggers?
+12. How Spring simulate Restful?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Nick Diao
+Type: Phone
+Date: 08/14/2015
+
+1. cons of hi cache: memory overflow
+2. System.gettimeStamp   return Timestamp 
+3. XML schema in webservice
+4. tune perf of db : 
+5. view, index 
+5. exectuion plan:
+   A query plan (or query execution plan) is an ordered set of steps used to access data in a SQL relational database management system. This is a specific case of the 
+   relational model concept of access plans.
+6. full table scan:
+   Full table scan (also known as sequential scan) is a scan made on a database where each row of the table under scan is read in a sequential (serial) order and the 
+   columns encountered are checked for the validity of a condition.
+7. How to mark a story as done:
+Second interview
+1. acceptance criteria AC (eg. 
+    a. create a button
+    b. click the button, pop up a window
+    c. ....)
+2. test case coverage // Sonar will run the test codes
+   MIN 45% unit test scan
+   make sure the test codes are good, even if you add new functions to your codes 
+3. test automation case(regression test): soapUI groovy
+4. code review
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Samuel Tian
+Type: Phone
+Date: 08/21/2015
+
+1. tell me about your self
+2. what spring module have you used
+3. what's the difference between RabbitMQ and ActiveMQ
+4. the difference between topic and queue
+5. what is subscription durable
+6. how does the MQ persist message
+7. what are the methods in Object class
+8. how to make a thread thread safe
+9. set vs list
+10. how to generate random unique number
+11. exp with spring mock framework
+12. how to mock DB
+13. how to analyze performance issue
+14. how to investigate memory dump
+15. difference between REST and SOAP
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Jason Sun
+Type: Phone
+Date: 08/25/2015
+
+1. Introduce yourself
+2. what side of technology you used? Front-end
+3. Spring when you use? Spring web sevice? spring dao? spring transaction.
+4. Websevice. comapare Rest and soap.
+5. protocol
+6. technology you use in web service
+7. performance issue: memory leak. how to solve?
+8. unix?
+9. design pattern: decoretor
+10. keep your skill up to the?
+11. if giving you a computer in your first day, what will you do
+12. how to set up environment
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Samuel Tian
+Type: Phone
+Date: 08/25/2015
+
+1. tell me about yourself
+2. what framework do you know
+3. what part of spring have you ever worked on
+4. what's the workflow of spring mvc
+5. how do you feel like spring
+6. spring bean scope
+7. how do you manage session timeout with spring
+8. list vs set vs map
+9. what would you do if you found a defect in production environment
+10. what would you do if you found a defect in testing environment
+11. what would a agile team be like(members?)
+12. js == vs ===
+13. js method to get elements?
+14. what js framework do you use more often
+15. exp with bootstrap? which position do you prefer? full stack, backend, frontend or archetect?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Kody Li
+Type: Phone
+Date: 09/28/2015
+
+1. when is it scheduled to be live?
+2. what tech you used for this app?
+3. why you prefer angular js?
+4. hav€e you used external test module?
+5. Why you use qunit test?
+6. what you tested already?
+7. did you use any other js?
+8. complaint with ie 8, what you use to make js compatible
+9. do you any specific thing for crossing browser
+10. why you use native js rather than jquery
+11. are you familar with prototype?
+12. example why you use prototype
+13. have you used jquery a lot before
+14. can you tell me, if you want to select by class, how can I go through the array?
+15. what are elements are added to HTML
+16. what browser that cut off the html feature
+17. do you have any issue with IE browser
+18. did you do a lot of CSS?
+19. Are you familiar with CSS? pseudo class / class
+20. first selected by id, and then selected class. which css attribute will be applied
+21. Have you used sass
+22. Are you familiar with modular pattern?
+23. How to make a class public/private
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Wilson Wang
+Type: Phone
+Date: 09/30/2015
+
+1. What is the difference between native CSS and SASS ?
+2. Any experience about using JSP and JSTL and talk about that ?
+3. How did u validate ur code ?
+4. How did u use Karma how to config ?
+5. How to add a new <li> after 3 existed <li> within a <ul> using jquery ?
+6. How to achieve the click the new <li> you added let the second <li> hide ?
+7. Do u know REST and what is it ?
+8. What is the REST url looks like ?
+9. How do u handle the security issue using REST ?
+10. What is the difference between backbone.js and angular.js ?
+11. How to achieve the module pattern in JavaScript ?
+12. How to do the responsive design and what u need to care about the design in cell-phone layout ?
+13. What is pesudo-class in CSS ?
+14. What is continuous development ?
+
+-----------------------------------------------------------------------------------------------------------
+Client: Barclays
+Candidate: Frank Nan
+Type: Phone
+Date: 09/30/2015
+
+1. servlet life cycle
+2. jsp implicit objects
+3. session config timeout
+4. static class
+5. abstract class
+6. soap and rest, which one have you used? how to add security features to rest?
+7. testing framework
+8. automated testing
+9. integration testing
+10. regression testing
+
+-----------------------------------------------------------------------------------------------------------
+Client: TCS / Barclays
+Candidate: Frank Nan
+Type: F2F
+Date: 12/17/2015
+
+1. polymorphism
+2. composition vs. inheritance
+3. JVM memory allocation combined with GC questions, like, how could system know that there are no refernces point to certain resources?
+4. design question
+5. writing code about receiving the data from rest service, based on your lastproject environment.
+6. 2 algorithms
+7. 2 sqls
+8. singleton, why double check, is it real singleton? what is reflaction you've mentioned? why we use reflaction in java?
+9. design patterns you used, explain
+10. multithreading questions
+
+11. immutable class questions
